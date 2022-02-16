@@ -8,9 +8,9 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
+  fill: rgb(26, 27, 39);
+<!--   stroke: rgb(225, 228, 232); -->
+  stroke-width: 0px;
   rx: 6px;
   ry: 6px;
 }
@@ -24,8 +24,10 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+<!--   color: rgb(36, 41, 46); -->
+<!--   fill: rgb(36, 41, 46); -->
+  color: white;
+  fill: white;
 }
 ul {
   list-style: none;
